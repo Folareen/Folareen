@@ -3,7 +3,7 @@
 </div>  
   
 <h1 align="center" >HI 👋, I'm Saka Wahab Afolarin</h1>
-<h2 align="center" >A passionate Frontend developer👨‍💻 from Nigeria.</h2>
+<h2 align="center" >I'm a passionate Frontend developer👨‍💻 from Nigeria.</h2>
 
 <br>
 
@@ -21,7 +21,7 @@
 - 💬 Feel free to reach out to me for consulting, volunteering or just for some interesting discussion through **my social media handles**
 </p>
   
-
+----
 <br/>  
 
 
@@ -65,7 +65,7 @@
 </div>
 
 </tr></table>  
-
+----
 <br/>  
 
 
@@ -100,15 +100,9 @@
 </a>  
 </div>  
   
-
+----
 <br/>  
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Folareen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
