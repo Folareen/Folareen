@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 200px" />
 </div>  
   
 <h1 align="center" >HI 👋, I'm Saka Wahab Afolarin</h1>
@@ -8,6 +8,7 @@
 <br>
 
 <p>
+
 - 🔭 I’m currently working on **Frontend projects**
 
 - 🌱 I’m currently learning **React**
