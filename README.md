@@ -2,8 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px" />
 </div>  
   
-<h1 align="center" style="font-size: 2rem">HI 👋, I'm Saka Wahab Afolarin</h1>
-<h3 align="center" style="font-size: 1.5rem">A passionate Frontend developer👨‍💻 from Nigeria.</h3>
+<h1 align="center" style="font-size: 3rem">HI 👋, I'm Saka Wahab Afolarin</h1>
+<h3 align="center" style="font-size: 2rem">A passionate Frontend developer👨‍💻 from Nigeria.</h3>
 
 <br>
 
