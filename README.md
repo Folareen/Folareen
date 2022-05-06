@@ -2,22 +2,22 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px" />
 </div>  
   
-<h1 align="center" >HI <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />, I'm Saka Wahab Afolarin</h1>
+<h1 align="center" >HI <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />, I'm Saka Wahab Afolarin.</h1>
 <h2 align="center" >I'm a passionate Frontend developer👨‍💻 from Nigeria.</h2>
 
 <br>
 
 <p>
 
-- 🔭 I’m currently working on **Frontend projects**
+- 🔭 I’m currently working on **Frontend projects**.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**.
 
-- 👨‍💻 I'm passionate about creating **responsive and scalable web applications with great user interfaces**
+- 👨‍💻 I'm passionate about creating **responsive and scalable web applications with great user interfaces**.
 
-- 🚧 I'm currently working on **developing new projects to enhance my learning**
+- 🚧 I'm currently working on **developing new projects to enhance my learning**.
 
-- 💬 Feel free to reach out to me for consulting, volunteering or just for some interesting discussion through **my social media handles**
+- 💬 Feel free to reach out to me for consulting, volunteering or just for some interesting discussion through **my social media handles**.
 </p>
   
 ----
@@ -63,7 +63,8 @@
 <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </div>
 
-</tr></table>  
+</tr></table>
+
 ----
 <br/>  
 
