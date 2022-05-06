@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px" />
 </div>  
   
-<h1 align="center" >HI 👋, I'm Saka Wahab Afolarin</h1>
+<h1 align="center" >HI <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />, I'm Saka Wahab Afolarin</h1>
 <h2 align="center" >I'm a passionate Frontend developer👨‍💻 from Nigeria.</h2>
 
 <br>
@@ -94,7 +94,7 @@
 <a href="https://instagram.com/__folareen__" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/folareen" target="_blank">
+<a href="https://medium.com/@folareen" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
