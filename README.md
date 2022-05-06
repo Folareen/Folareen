@@ -3,7 +3,7 @@
 </div>  
   
 <h1 align="center" style="font-size: 100px">HI 👋, I'm Saka Wahab Afolarin</h1>
-<h3 align="center" style="font-size: 2rem">A passionate Frontend developer👨‍💻 from Nigeria.</h3>
+<h2 align="center" font-size="100px">A passionate Frontend developer👨‍💻 from Nigeria.</h2>
 
 <br>
 
@@ -29,7 +29,7 @@
 
 
 ### Frontend  
-<div >  
+<div align="justify">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /><br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
@@ -54,10 +54,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
 
-### Hosting and Version Control  
+### Version Control and others
 <div align="justify">
-<img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+<img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+<img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </div>
 
 </tr></table>  
