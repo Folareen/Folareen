@@ -2,11 +2,12 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px" />
 </div>  
   
-<h1 align="center" style="font-size: 100px">HI 👋, I'm Saka Wahab Afolarin</h1>
-<h2 align="center" font-size="100px">A passionate Frontend developer👨‍💻 from Nigeria.</h2>
+<h1 align="center" >HI 👋, I'm Saka Wahab Afolarin</h1>
+<h2 align="center" >A passionate Frontend developer👨‍💻 from Nigeria.</h2>
 
 <br>
 
+<p>
 - 🔭 I’m currently working on **Frontend projects**
 
 - 🌱 I’m currently learning **React**
@@ -18,6 +19,7 @@
 - 🚧 I'm currently working on **developing new projects to enhance my learning**
 
 - 💬 Feel free to reach out to me for consulting, volunteering or just for some interesting discussion through **my social media handles**
+</p>
   
 
 <br/>  
