@@ -111,4 +111,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Folareen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Folareen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Folareen&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Folareen&label=Profile%20views&color=0e75b6&style=flat" alt="Folareen" /> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Folareen&show_icons=true&locale=en&layout=compact&bg_color=181824&color=14b8a6&line=22c55e&point=14b8a6&area_color=181824&area=true&hide_border=true" alt="Folareen" /></p>
+<hr/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Folareen&bg_color=181824&color=14b8a6&line=22c55e&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
