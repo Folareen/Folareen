@@ -3,7 +3,7 @@
 </div>  
   
 <h1 align="center" >HI <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />, I'm Saka Wahab Afolarin.</h1>
-<h2 align="center" >I'm a passionate Frontend developer👨‍💻 from Nigeria.</h2>
+<h2 align="center" >I'm a passionate Frontend developer👨‍💻 and aspiring fullstack developer from Nigeria.</h2>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Frontend projects**.
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **Advanced React**, and **Node.js**.
 
 - 👨‍💻 I'm passionate about creating **responsive and scalable web applications with great user interfaces**.
 
@@ -48,9 +48,10 @@
 
 
 ### Backend  
-<div align="justify">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<div align="justify">
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 </div>
 
 ### Design  
