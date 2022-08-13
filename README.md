@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Frontend projects**.
 
-- 🏫 I’m currently studying **software engineering** at **AltSchoolAfrica**[School of Software Engineering](https://altschoolafrica.com/schools/engineering).
+- 🏫 I’m currently studying **software engineering** at **AltSchoolAfrica**[School of Software Engineering] (https://altschoolafrica.com/schools/engineering).
 
 - 🌱 I’m currently learning  **Advanced React** and **Node.js**.
 
