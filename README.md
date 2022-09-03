@@ -25,6 +25,7 @@
 ----
 <br/>  
 
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 
 ## My Skill Set  
 <table width="100%"><tr><td valign="top" width="50%">
