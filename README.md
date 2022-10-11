@@ -11,9 +11,7 @@
 
 - 🔭 I’m currently working on **Frontend projects**.
 
-- 🏫 I’m currently studying **software engineering** at **AltSchoolAfrica**[School of Software Engineering] (https://altschoolafrica.com/schools/engineering).
-
-- 🌱 I’m currently learning  **Advanced React** and **Node.js**.
+- 🌱 I’m currently learning **Advanced React** and **Next.js**
 
 - 👨‍💻 I'm passionate about creating **responsive and scalable web applications with great user interfaces**.
 
@@ -56,7 +54,9 @@
 <div align="justify">
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
 <img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </div>
+
 
 ### Design  
 <div align="justify">  
@@ -85,7 +85,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://twitter.com/__folareen__" target="_blank">
+<a href="https://twitter.com/_folareen_" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/folareen" target="_blank">
