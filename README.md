@@ -3,19 +3,19 @@
 </div>  
   
 <h1 align="center" >HI <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />, I'm Saka Wahab Afolarin.</h1>
-<h2 align="center" >I'm a passionate Frontend developer👨‍💻 and aspiring fullstack developer from Nigeria.</h2>
+<h2 align="center" >I'm a passionate Frontend developer👨‍💻 from Nigeria.</h2>
 
 <br>
 
 <p>
 
-- 🔭 I’m currently working on **Frontend projects**.
+- 🔭 I’m currently working on **WriteOn** and **resumake**.
 
-- 🌱 I’m currently learning **Advanced React** and **Next.js**
+- 🌱 I’m currently learning **advanced frontend development(react)** and **react-native**
 
-- 👨‍💻 I'm passionate about creating **responsive and scalable web applications with great user interfaces**.
+- 👨‍💻 I'm passionate about creating **responsive and scalable applications with great user interfaces**.
 
-- 🚧 I'm currently working on **developing new projects to enhance my learning**.
+<!-- - 🚧 I'm currently working on **developing new projects to enhance my learning**. -->
 
 - 💬 Feel free to reach out to me for consulting, volunteering or just for some interesting discussion through **my social media handles**.
 </p>
@@ -36,12 +36,12 @@
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Sass" />
 <img  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"  />
 <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"  />  
+<img  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"  />  
 <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Reactjs"  />
 <img  src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"  />
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />  
 <img alt="Material Ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />  
 <img alt="Chakra Ui" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />  
-<img alt="Framer motion" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />  
 <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
@@ -49,6 +49,11 @@
 </td><td valign="top" width="50%">
 
 
+### Mobile  
+<div align="justify">
+<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+</div>
 
 ### Backend  
 <div align="justify">
@@ -56,7 +61,6 @@
 <img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </div>
-
 
 ### Design  
 <div align="justify">  
