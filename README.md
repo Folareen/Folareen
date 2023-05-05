@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px" />
 </div>  
   
-<h1 align="center" >HI <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />, I'm Saka Wahab Afolarin.</h1>
+<h1 align="center" >HI <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />, I'm Wahab Saka.</h1>
 <h2 align="center" >I'm a passionate Frontend developer👨‍💻 from Nigeria.</h2>
 
 <br>
