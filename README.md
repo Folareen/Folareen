@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **WriteOn** and **resumake**.
 
-- 🌱 I’m currently learning **advanced frontend development(react)** and **react-native**
+- 🌱 I’m currently learning more about **backend development(nodejs)**.
 
 - 👨‍💻 I'm passionate about creating **responsive and scalable applications with great user interfaces**.
 
@@ -62,6 +62,7 @@
 <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
 <img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 ### Design  
