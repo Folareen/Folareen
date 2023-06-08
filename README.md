@@ -9,7 +9,7 @@
 
 <p>
 
-- 🔭 I’m currently working on **WriteOn** and **resumake**.
+<!-- - 🔭 I’m currently working on **WriteOn** -->
 
 - 🌱 I’m currently learning more about **backend development(nodejs)**.
 
