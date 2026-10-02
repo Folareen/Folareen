@@ -6,7 +6,7 @@ I ship fast and I ship real things. Most of what's below is live right now, not 
 
 - 🔭 Currently building **Compesight** and **Tipwise**, two solo SaaS products
 - 🛠️ Comfortable across the stack: TypeScript/Next.js on the frontend, Node/Python on the backend, React Native for mobile
-- 🏆 Runner-up (2nd of 268 teams) at the Nomba x DevCareer Hackathon 2026
+- 🏆 Runner-up (2nd out of 1000+ participants) at the Nomba x DevCareer Hackathon 2026
 - 📱 Apps live on the App Store and Google Play with 1,000+ downloads
 - 🌍 Remote, open to new roles and contracts
 
@@ -18,7 +18,7 @@ I ship fast and I ship real things. Most of what's below is live right now, not 
 
 **[Clance](https://clance.team)** — A workspace shaped like how agencies actually staff. Tasks, real-time chat, notes, files and approvals in one place, with per-project roles instead of global ones. Next.js, NestJS and Socket.io in a Turborepo monorepo.
 
-**[Glasspot](https://glasspot.vercel.app)** — Transparent group contributions for Nigerians. Payout and refund rules lock before anyone contributes, so funds move automatically instead of sitting in someone's personal account. Led a 2-person team to 2nd place out of 268 at Nomba x DevCareer Hackathon 2026.
+**[Glasspot](https://glasspot.vercel.app)** — Transparent group contributions for Nigerians. Payout and refund rules lock before anyone contributes, so funds move automatically instead of sitting in someone's personal account. Led a 2-person team to runner-up out of 1000+ participants at Nomba x DevCareer Hackathon 2026.
 
 **[Eventza](https://eventza.vercel.app)** — End-to-end event ticketing: create an event, sell tickets with Stripe Connect, check attendees in by QR from a companion scanner app.
 
